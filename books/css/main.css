@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #00C706;
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.hero {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.bg-element1 {
+	margin-left: 43%;
+	position: absolute;
+}
+
+.bg-element2 {
+	background: #6C4705;
+	width: 80%;
+	height: 80%;
+	position: absolute;
+	top: 10%;
+	left: 10%;
+}
+
+.bg-element3 {
+	background: #106C05;
+	width: 75%;
+	height: 73%;
+	position: absolute;
+	top: 13%;
+	left: 12.5%;
+}
+
+.btn1 {
+	position: absolute;
+	width: 12%;
+	height: 24%;
+	left: 25%;
+	top: 15%;
+	border-radius: 30%;
+	border: none;
+	cursor: pointer;
+	font-size: 150%;
+}
+
+.btn2 {
+	position: absolute;
+	width: 12%;
+	height: 24%;
+	left: 45%;
+	top: 15%;
+	border-radius: 30%;
+	border: none;
+	cursor: pointer;
+	font-size: 150%;
+}
+
+.btn3 {
+	position: absolute;
+	width: 12%;
+	height: 24%;
+	left: 65%;
+	top: 15%;
+	border-radius: 30%;
+	border: none;
+	cursor: pointer;
+	font-size: 150%;
+}
